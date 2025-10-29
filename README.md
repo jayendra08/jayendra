@@ -50,5 +50,5 @@ Think of it as a **public message wall** that can never be altered — a true ex
 
 
 Contract address : https://celo-sepolia.blockscout.com/tx/0x595cb3c04ee48ced5dd94499f22bc9fca23f0a13e7ad60dcc387d8c99a40921a
+<img width="1920" height="1080" alt="Screenshot 2025-10-29 142359" src="https://github.com/user-attachments/assets/692237fa-65bf-4d0a-bf59-5c152215bfd9" />
 
-<img width="1920" height="1080" alt="Screenshot 2025-10-29 142359" src="https://github.com/user-attachments/assets/7ee20df7-b2ff-46e4-b2bd-42914d62accd" />
